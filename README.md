@@ -58,3 +58,8 @@ The dashboard contains:
 ## Project Purpose
 
 This project was created to develop practical skills in Tableau and business data analysis by transforming e-commerce data into an interactive dashboard.
+
+## Live Dashboard
+
+[Open my Tableau Dashboard](https://public.tableau.com/app/profile/vrutika.patil/viz/E-Commerce_Sales_Profit_Dashborad/E-CommerceSalesProftDashboard?publish=yes)
+
